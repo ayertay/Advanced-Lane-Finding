@@ -84,7 +84,7 @@ In the `compute_lane_curvature` function we compute the lane curvature radius us
 
 ![second order poly](./examples/second-order-polynomial.png)
 
-![second order poly](./examples/radius.jpg)
+![radius formula](./examples/radius.JPG)
 
 where f(y) is the fitted curve.
 
